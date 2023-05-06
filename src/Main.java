@@ -9,7 +9,7 @@ public class Main {
         AVLTree example = new AVLTree();
         Node root = null;
         int temp;
-
+        //первый коммит проекта - курсач по АВЛ-деревьям
         while((menuItem = menu()) != 0)
             switch(menuItem)
             {
