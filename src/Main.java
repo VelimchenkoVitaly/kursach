@@ -10,6 +10,7 @@ public class Main {
         Node root = null;
         int temp;
         //первый коммит проекта - курсач по АВЛ-деревьям
+        //второй коммит проекта - разбираюсь как работать 
         while((menuItem = menu()) != 0)
             switch(menuItem)
             {
